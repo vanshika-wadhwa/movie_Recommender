@@ -29,8 +29,8 @@ The core logic is implemented in a **Jupyter Notebook**, and all required depend
 
 ## 🧠 How It Works
 
-- A content-based similarity matrix is created using TF-IDF or cosine similarity.
-- When a user inputs a movie title, the system recommends the most similar movies based on plot/genre vectors.
+- A content-based similarity matrix is created using cosine similarity.
+- When a user inputs a movie title, the system recommends the most similar movies based on genre vectors.
 
 ---
 
